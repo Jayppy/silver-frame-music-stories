@@ -28,3 +28,7 @@ use the editor.
   own key and store it in Secrets.
 - **Secrets.** Lovable manages them. Do not put secret values in the repo.
 <!-- LOVABLE:END -->
+
+## Studio site architecture
+- Keep the 74 STUDIO public pages in TanStack file-based routes and share presentation through reusable studio components; this preserves direct navigation and consistent branding.
+- Store project inquiries through a server-validated function into a private Cloud table; this keeps anonymous visitors from reading inquiries and does not imply email delivery.

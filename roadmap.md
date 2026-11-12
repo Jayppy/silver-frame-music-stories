@@ -1,0 +1,5 @@
+- [ ] Create the private project inquiry store and secure validated submission handler.
+- [ ] Build the responsive 74 STUDIO visual system, shared navigation/footer, and six requested pages.
+- [ ] Add YouTube, LinkedIn, Discord, and Instagram links supplied by the studio.
+- [ ] Add the provided logo and cinematic concept imagery; clearly label concepts and avoid invented clients, testimonials, prices, or social URLs.
+- [ ] Verify routes, mobile layouts, category filters, and an actual inquiry submission; inspect build errors and commit the completed work.

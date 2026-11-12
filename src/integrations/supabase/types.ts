@@ -14,7 +14,48 @@ export type Database = {
   }
   public: {
     Tables: {
-      [_ in never]: never
+      project_inquiries: {
+        Row: {
+          artist_project: string
+          created_at: string
+          creative_references: string | null
+          desired_runtime: string | null
+          email: string
+          id: string
+          music_link: string | null
+          name: string
+          project_deadline: string | null
+          project_description: string
+          service_required: string
+        }
+        Insert: {
+          artist_project: string
+          created_at?: string
+          creative_references?: string | null
+          desired_runtime?: string | null
+          email: string
+          id?: string
+          music_link?: string | null
+          name: string
+          project_deadline?: string | null
+          project_description: string
+          service_required: string
+        }
+        Update: {
+          artist_project?: string
+          created_at?: string
+          creative_references?: string | null
+          desired_runtime?: string | null
+          email?: string
+          id?: string
+          music_link?: string | null
+          name?: string
+          project_deadline?: string | null
+          project_description?: string
+          service_required?: string
+        }
+        Relationships: []
+      }
     }
     Views: {
       [_ in never]: never
