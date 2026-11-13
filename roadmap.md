@@ -2,4 +2,6 @@
 - [ ] Build the responsive 74 STUDIO visual system, shared navigation/footer, and six requested pages.
 - [ ] Add YouTube, LinkedIn, Discord, and Instagram links supplied by the studio.
 - [ ] Add the provided logo and cinematic concept imagery; clearly label concepts and avoid invented clients, testimonials, prices, or social URLs.
-- [ ] Verify routes, mobile layouts, category filters, and an actual inquiry submission; inspect build errors and commit the completed work.
+- [ ] Replace both visible brand marks and the site icon with the newly supplied chrome emblem; remove the 2026 production eyebrow and broaden the home-page headline to include all editing work.
+- [ ] Add a publishable blog page with article authoring, persisted article storage, and public article views.
+- [ ] Verify routes, mobile layouts, category filters, inquiry and article publishing flows; inspect build errors and commit the completed work.
